@@ -1,0 +1,42 @@
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/services.deps.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/bin/Debug/net6.0/services.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/bin/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.csproj.AssemblyReference.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.AssemblyInfoInputs.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.AssemblyInfo.cs
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.csproj.CoreCompileInputs.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/refint/services.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/Services/obj/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/ref/services.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/services.runtimeconfig.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/services.genruntimeconfig.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/Services.deps.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/Services.runtimeconfig.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/Services.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/bin/Debug/net6.0/Services.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.csproj.AssemblyReference.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.AssemblyInfoInputs.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.AssemblyInfo.cs
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.csproj.CoreCompileInputs.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/refint/Services.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/Services.genruntimeconfig.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/services/obj/Debug/net6.0/ref/Services.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/services/bin/Debug/net6.0/services.deps.json
+/Users/alecrodriguez/Desktop/FinalProject4390/services/bin/Debug/net6.0/services.runtimeconfig.json
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/bin/Debug/net6.0/services.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/bin/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.csproj.AssemblyReference.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.AssemblyInfoInputs.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.AssemblyInfo.cs
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.csproj.CoreCompileInputs.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/refint/services.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/Services/obj/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/services/obj/Debug/net6.0/services.genruntimeconfig.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/services/obj/Debug/net6.0/ref/services.dll

@@ -1,0 +1,197 @@
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/appsettings.Development.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/appsettings.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/API
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/API.deps.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/API.runtimeconfig.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/API.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/API.pdb
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.csproj.CopyComplete
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/refint/API.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.pdb
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/obj/Debug/net6.0/ref/API.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/worker.deps.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/worker.runtimeconfig.json
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/worker
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/Microsoft.Extensions.Hosting.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/services.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/worker.dll
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Library/CloudStorage/OneDrive-WestTexasAandMUniversity/School/Fall 2022/Programming/Final Project/4390finalproject/API/bin/Debug/net6.0/worker.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.AssemblyInfo.cs
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/refint/api.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/appsettings.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/worker.deps.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/worker.runtimeconfig.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/worker.exe
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/api.exe
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/api.deps.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/api.runtimeconfig.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/api.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/api.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/HtmlAgilityPack.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.Extensions.Hosting.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/services.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/worker.dll
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/services.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/bin/Debug/net6.0/worker.pdb
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.csproj.CopyComplete
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/api.genruntimeconfig.cache
+C:/Users/alec_/OneDrive - West Texas A and M University/School/Fall 2022/Programming/Final Project/4390finalproject/api/obj/Debug/net6.0/ref/api.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/appsettings.Development.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/appsettings.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/worker.deps.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/worker.runtimeconfig.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/worker
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/api
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/api.deps.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/api.runtimeconfig.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/api.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/api.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.Extensions.Hosting.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/services.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/worker.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/services.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/API/bin/Debug/net6.0/worker.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.csproj.AssemblyReference.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.AssemblyInfoInputs.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.AssemblyInfo.cs
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.csproj.CoreCompileInputs.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.MvcApplicationPartsAssemblyInfo.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/scopedcss/bundle/api.styles.css
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.csproj.CopyComplete
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/refint/api.dll
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.pdb
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/api.genruntimeconfig.cache
+/Users/alecrodriguez/Desktop/FinalProject4390/API/obj/Debug/net6.0/ref/api.dll

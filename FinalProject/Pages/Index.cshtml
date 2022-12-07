@@ -1,0 +1,37 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+   <h1 class="display-4" style="color:#0000ff; text-shadow: 2px 2px 5px blue;">Welcome to the Auto Reconciler!</h1>
+
+    <img src='https://pluspng.com/img-png/internet-png-internet-icon-1600.png' style="height: 50px; width: 50px;">
+
+    <img src='https://www.freepnglogos.com/uploads/server-png/server-icon-download-icons-17.png' style="height: 50px; width: 50px;">
+
+    <img src='http://cdn.onlinewebfonts.com/svg/img_157849.png' style="height: 50px; width: 50px;">
+
+    <br><br/> 
+
+    <p>Created by:</p>
+
+    <p class="display-6"><i>Team Maui</i></p>
+
+    <p style="font-size: 12px;">Alec Rodriguez, Nicole Davenport, Sawyer Matteson, Bobby Carpenter, Tyler Bowdry</p>
+<center>
+<div style="border: 5px ridge #c2b280; width: 700px; padding: 25px; border-radius: 5px;">
+<p> Our application allows the user to register an account 
+    and login, giving the user access to enter in jobs/templates they can reconcile. 
+    <br>
+    After a job or template has been ran, the user will be able to access:
+     <ul>
+        <li>What was ran last</li>
+        <li>Run history</li>
+        <li>Run result (success or failure)</li>
+     </ul>   
+</p>
+</center>
+    <p>@DateTime.Now</p>
+</div>

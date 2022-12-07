@@ -1,0 +1,80 @@
+@page
+@model TemplateModel
+@{
+    ViewData["Title"] = "Create Job";
+}
+
+<div class="col-lg-6 col-lg-offset-3">
+    <h1>Select a job to automate!</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="name" class="control-label">Job type:</label>
+            <select id="name" name="name" class="form-control">
+                <option value="" disabled selected>Select a job to automate</option>
+                <option value="Website">Website</option>
+                @* <option value="Server">Server</option>
+                <option value="Database">Database</option> *@
+            </select>
+            <br>
+            <label for="URL" class="control-label">URL:</label>
+            <input type="text" id="URL" name="URL" placeholder="Enter the URL" class="form-control">
+            <br>
+            <label for="jobActionType" class="control-label">Check Action:</label>
+            <input type="text" id="jobActionType" name="jobActionType" class="form-control" placeholder="0 for website status"></input>
+             <br>
+            <label for="description" class="control-label">Description:</label>
+            <input type="text" id="description" name="description" placeholder="Enter a description" class="form-control">
+            @* <br>
+            <label class="control-label">Reconcile Action:</label>
+            <select class="form-control">
+                <option value="" disabled selected>Select an action</option>
+                <option value="RestartServer">Restart the Server</option>
+                <option value="DeleteFile">Delete the bad file</option>
+                <option value="DeleteRows">Delete the rows in the table</option>
+            </select> *@
+            <br>
+            <label for="jobfrequencyinminutes" class="control-label">Frequency in minutes:</label>
+            <input id="jobfrequencyinminutes" name="jobfrequencyinminutes" type="number" class="form-control" min="1" max="60" placeholder="Enter Job Frequency in Minutes">
+        </div>
+        <br>
+        <div class="form-group"> 
+            <input type="hidden">
+            <input type="submit" value="Submit" class="btn btn-success" />
+        </div>
+        <hr>
+        <div>
+            <h3>
+                <p>Run Results: </p>
+            </h3>
+        </div>
+    </form>
+    <div class="container">
+        <p>
+            @Model.JSONOutput
+        </p>
+        <div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">JobID</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">CheckAction</th>
+                    </tr>
+                    @if(@Model.JobResults != null)
+                    {
+                        @foreach (var jobResult in @Model.JobResults)
+                        {
+                        <tr>
+                            <td>@jobResult.JobID</td>
+                            <td>@jobResult.Status</td>
+                            <td>@jobResult.JobActionType</td>
+                        </tr>            
+                        }        
+                    }
+                </thead>
+            </table>
+        </div>
+</div>
+
+
+
